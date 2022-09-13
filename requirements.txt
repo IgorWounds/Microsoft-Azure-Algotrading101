@@ -1,0 +1,4 @@
+python-dotenv==0.21.0
+pandas==1.4.4
+krakenex==2.1.0
+pykrakenapi==0.3.1
